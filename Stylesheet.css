@@ -11,8 +11,8 @@
     font-weight: normal;
     font-style: normal;
 	
-    font-family: 'Caviar Dreams';
-    src: url('https://fr.allfont.net/allfont.css?fonts=caviar-dreams');
+    font-family: 'Zen_Kurenaido';
+    src: url('https://fonts.google.com/specimen/Zen+Kurenaido');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,7 +24,7 @@
 	background-color: rgba(30, 20, 30, 1);
 
 	/*Text*/
-	font-family:  "Caviar Dreams", "caviar_dreamsregular", "Arial", "Arial Black", "Comic Sans MS", "Courier New", "Georgia", "Impact", "Times New Roman", "Trebuchet MS", "Verdana";
+	font-family:  "Zen_Kurenaido", "caviar_dreamsregular", "Arial", "Arial Black", "Comic Sans MS", "Courier New", "Georgia", "Impact", "Times New Roman", "Trebuchet MS", "Verdana";
 }
 
 
