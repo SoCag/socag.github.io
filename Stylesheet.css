@@ -1,6 +1,6 @@
 /*Feuille de style CSS*/
 
-@import url(https://fr.allfont.net/allfont.css?fonts=caviar-dreams);
+@import url('https://fr.allfont.net/allfont.css?fonts=caviar-dreams');
 
 /*Permet de gérer l'affichage de toute la page*/
 * {
