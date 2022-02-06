@@ -1,6 +1,6 @@
 /*Feuille de style CSS*/
 
-@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+@import url(https://fr.allfont.net/allfont.css?fonts=caviar-dreams);
 
 /*Permet de gérer l'affichage de toute la page*/
 * {
@@ -8,8 +8,7 @@
 	background-color: rgba(30, 20, 30, 1);
 
 	/*Text*/
-	font-family: 'Zen Kurenaido', sans-serif;
-	/*font-family:  "Zen Kurenaido", "Arial", "Arial Black", "Comic Sans MS", "Courier New", "Georgia", "Impact", "Times New Roman", "Trebuchet MS", "Verdana";*/
+	font-family: 'Caviar Dreams', arial;
 }
 
 
