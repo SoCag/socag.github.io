@@ -10,6 +10,11 @@
          url('fonts/CaviarDreams-webfont.svg#caviar_dreamsregular') format('svg');
     font-weight: normal;
     font-style: normal;
+	
+    font-family: 'Caviar Dreams';
+    src: url('https://fr.allfont.net/allfont.css?fonts=caviar-dreams');
+    font-weight: normal;
+    font-style: normal;
 }
 
 
