@@ -1,6 +1,6 @@
 /*Feuille de style CSS*/
 
-@import url('https://fr.allfont.net/allfont.css?fonts=caviar-dreams');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
 
 /*Permet de gérer l'affichage de toute la page*/
 * {
@@ -8,7 +8,7 @@
 	background-color: rgba(30, 20, 30, 1);
 
 	/*Text*/
-	font-family: 'Caviar Dreams', arial;
+	font-family: 'Baloo 2', cursive;
 }
 
 
