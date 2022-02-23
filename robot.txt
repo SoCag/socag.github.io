@@ -1,0 +1,4 @@
+# robots.txt for https://socag.github.io/CV-CAGNOLATI-SOLENE/
+
+User-agent: *
+Disallow: /
