@@ -56,7 +56,7 @@ h1 {
 }
 
 /*Permet de gérer l'affichage du libellé*/
-figcaption {
+.figcaption {
 		/*Text*/
 	font-size: 2em;
 	font-style: bold;
