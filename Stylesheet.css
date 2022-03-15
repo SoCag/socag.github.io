@@ -41,6 +41,10 @@ h1 {
 
 	/*Margin*/
 	margin: 0% 0% 0.5% 0%;
+	
+	/*Taille*/
+	width: 259px;
+	height: 248px;
 }
 
 .flottant:active {
