@@ -74,7 +74,6 @@ h1 {
 
 /*Permet de gérer l'affichage des titres*/
 h2 {
-
 	clear: left;
 
 	/*Text*/
@@ -94,7 +93,6 @@ h2 {
 }
 
 h2:active, h2:hover, h2:focus {
-
 	clear: left;
 
 	/*Background*/
@@ -139,6 +137,10 @@ h2:hover {
 
 #comp h3 {
 	display: inline;
+}
+
+#comp li {
+	ist-style: none
 }
 
 #xp h3 {
