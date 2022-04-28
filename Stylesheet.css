@@ -116,7 +116,7 @@ h2:active {
 	margin: 0% 4% 1.5% 4%;
 }
 
-#comp h3 {
+#comp h3, #comp b, #comp {
 	/*Text*/
 	font-size: 1.5em;
 	text-align: center;
