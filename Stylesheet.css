@@ -133,14 +133,11 @@ h2:hover {
 	display: inline-block;
   	animation: fadeInLeft;
   	animation-duration: 2s;
+	list-style: none
 }
 
 #comp h3 {
 	display: inline;
-}
-
-#comp li {
-	ist-style: none
 }
 
 #xp h3 {
