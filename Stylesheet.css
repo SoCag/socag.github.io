@@ -124,13 +124,17 @@ h2:active {
 	text-shadow: 0px 0px 10px rgba(255, 90, 255, 1);
 
 	/*Margin*/
-	margin: 0% auto 1.5% auto;
+	margin: auto;
 	width: 50%;
 
 	/*Animation*/
-	display: inline;
+	display: inline-block;
   	animation: fadeInLeft;
   	animation-duration: 2s;
+}
+
+#comp li {
+	display: inline;
 }
 
 #xp h3 {
