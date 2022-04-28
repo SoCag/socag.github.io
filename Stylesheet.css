@@ -133,6 +133,10 @@ h2:active {
   	animation-duration: 2s;
 }
 
+#xp h3 {
+	display: inline;
+}
+
 #xp b {
 	/*Text*/
 	font-size: 1.1em;
