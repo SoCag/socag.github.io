@@ -137,7 +137,7 @@ h2:hover {
   	animation-duration: 2s;
 }
 
-#comp li, #comp h3 {
+#comp h3 {
 	display: inline;
 }
 
