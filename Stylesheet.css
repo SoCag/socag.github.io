@@ -133,7 +133,7 @@ h2:active {
   	animation-duration: 2s;
 }
 
-#comp li {
+#comp li, #comp h3 {
 	display: inline;
 }
 
