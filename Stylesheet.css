@@ -28,6 +28,10 @@ h1 {
 
 	/*Margin*/
 	margin: 2% 4% 0% 4%;
+  	-webkit-hyphens: auto;
+  	-moz-hyphens: auto;
+ 	-ms-hyphens: auto;
+ 	hyphens: auto;
 }
 
 /*Permet de gérer l'affichage de l'image principale*/
