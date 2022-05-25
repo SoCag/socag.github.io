@@ -33,7 +33,7 @@ h1 {
  	-ms-hyphens: auto;
  	hyphens: auto;
 	
-	white-space: pre-wrap;
+	overflow-wrap: break-word;
 }
 
 /*Permet de gérer l'affichage de l'image principale*/
