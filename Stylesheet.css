@@ -32,6 +32,8 @@ h1 {
   	-moz-hyphens: auto;
  	-ms-hyphens: auto;
  	hyphens: auto;
+	
+	white-space: pre-wrap;
 }
 
 /*Permet de gérer l'affichage de l'image principale*/
