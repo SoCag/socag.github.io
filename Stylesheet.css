@@ -96,6 +96,8 @@ h2 {
 
 	/*Margin*/
 	margin: 0% 4% 1.5% 4%;
+	
+	overflow-wrap: break-word;
 }
 
 h2:active, h2:hover, h2:focus {
